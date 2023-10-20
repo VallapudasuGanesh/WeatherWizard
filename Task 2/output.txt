@@ -1,0 +1,4 @@
+Enter city name: New York
+Weather in New York, US:
+Temperature: 18.57°C
+Description: broken clouds
